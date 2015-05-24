@@ -2,14 +2,19 @@ NinjaTechEnterprises
 ====================
 NinjaTech Enterprises, putting the possible back into impossible.
 
-Unified Resource Initiative
----------------------------
-The Unified Resource Initiative's goal is to unify all mods that add resources to the game.  Modders can use the resources in this mod to help unify the resources between other mods that also use the resources in this mod.  If you have a resource that you would like to add, just make a fork, add your resource, and then make a pull request. I haven't made any parts, so I am using ModuleManager and Firespitter to add resources to stock tanks.
+Here at NinjaTech Enterprises, we have our great minds to work on developing useful parts for your enjoyment!
 
-TODO:
+We would like to introduce to you our line of Atmospheric RCS Units:
+The Atmospheric Linear RCS Port
+The Atmospheric RCS Thruster Block
 
-1. I still need to adjust the density for each resource.
-2. The naturally occuring resources will be mapped out using the OpenResourceSystem mod.
-3. A resource converter is planned.  The plugin needs to be built first.
+Both require Intake Air, which can be gathered using air intakes. No longer do you have to worry about putting monopropellant tanks on your VTOLS.
 
-Full release will be after the resource densities are adjusted.
+Our next line of parts is our SAS Units:
+The Advanced SAS Module, Size 3
+
+Now you have a SAS module that you can stick on your 3.75m rockets without having to strut everything together (we know you still will).
+
+Uses stock models and textures.  I would like if someone could help me with models and textures.
+
+Requires: ModuleManager

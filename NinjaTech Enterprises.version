@@ -1,6 +1,6 @@
  {
       "NAME":"NinjaTech Enterprises",
- 	 "URL":"https://raw.githubusercontent.com/Ninja5tyl3/NinjaTechEnterprises/master/GameData/000_USITools/USI.version"
+ 	 "URL":"https://raw.githubusercontent.com/Ninja5tyl3/NinjaTechEnterprises/master/NinjaTechEnterprises.version"
  	 "DOWNLOAD":"https://github.com/Ninja5tyl3/NinjaTechEnterprises/releases"
       "GITHUB":{
           "USERNAME":"Ninja 5tyl3",
@@ -10,7 +10,7 @@
       "VERSION":{
           "MAJOR":0,
           "MINOR":0,
-          "PATCH":1,
+          "PATCH":2,
           "BUILD":0
       },
       "KSP_VERSION":{
