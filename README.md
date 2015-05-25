@@ -15,6 +15,16 @@ The Advanced SAS Module, Size 3
 
 Now you have a SAS module that you can stick on your 3.75m rockets without having to strut everything together (we know you still will).
 
+Our next line of parts is our Utility Parts:
+Service Bay (3.75m)
+
+Now you can have a sevice bay on your Size 3 rockets.
+
+Our next line of parts is our Probe Cores:
+RC-S01 Remote Guidance Unit
+
+Now that you have a Size 3 SAS unit, now you can also control your rockets with a Size 3 Probe Core.
+
 Uses stock models and textures.  I would like if someone could help me with models and textures.
 
 Requires: ModuleManager

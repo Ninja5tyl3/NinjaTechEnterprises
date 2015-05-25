@@ -1,16 +1,16 @@
  {
-      "NAME":"NinjaTech Enterprises",
- 	 "URL":"https://raw.githubusercontent.com/Ninja5tyl3/NinjaTechEnterprises/master/NinjaTechEnterprises.version"
+   "NAME":"NinjaTech Enterprises",
+ 	 "URL":"https://raw.githubusercontent.com/Ninja5tyl3/NinjaTechEnterprises/master/NinjaTech%20Enterprises.version"
  	 "DOWNLOAD":"https://github.com/Ninja5tyl3/NinjaTechEnterprises/releases"
       "GITHUB":{
-          "USERNAME":"Ninja 5tyl3",
+          "USERNAME":"Ninja5tyl3",
           "REPOSITORY":"NinjaTechEnterprises",
           "ALLOW_PRE_RELEASE":false,
       },
       "VERSION":{
           "MAJOR":0,
           "MINOR":0,
-          "PATCH":2,
+          "PATCH":4,
           "BUILD":0
       },
       "KSP_VERSION":{
