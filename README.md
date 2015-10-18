@@ -25,6 +25,10 @@ RC-S01 Remote Guidance Unit
 
 Now that you have a Size 3 SAS unit, now you can also control your rockets with a Size 3 Probe Core.
 
-Uses stock models and textures.  I would like if someone could help me with models and textures.
+Advanced Nose Cone Probe - Type A
+Advanced Nose Cone Probe - Type B
+Small Nose Cone Probe
 
-Requires: ModuleManager
+We decided the regular noce cones were boring.  We decided to add probe cores to them to bring Skynet to your rockets.
+
+Uses stock models and textures.  I would like if someone could help me with models and textures.
